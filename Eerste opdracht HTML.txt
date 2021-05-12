@@ -1,0 +1,15 @@
+<Index.html>
+<html>
+    <head>
+        <Tagname>
+        <title> Welkom op mijn website </title>
+    </head>
+    <body>
+    <h1> Hier vind je de nieuwste recepten op mijn website </h1>
+    <h2> Ele week vind je een nieuwe informatie of producten </h2>
+    <hr>
+    <p> Meld je hier aan voor de neiuwsbrief </p>
+    <hr> 
+       <table>
+    </body>
+</html>
