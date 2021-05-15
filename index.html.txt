@@ -1,0 +1,17 @@
+<Index.html>
+<html>
+    <head>
+
+        <title> Welkom op mijn website </title>
+    </head>
+    <body>
+    <h1> Hier vind je de nieuwste recepten op mijn website </h1>
+    <hr></hr>
+    <h2> Ele week vind je een nieuwe informatie of producten </h2>
+    <img height ="100" scr="IMG/GC_F2017_MichelvanEijk_524x524.jpg ">
+    <a href="https://loveoffood.sodexo.com/chef/michel-van-eijk-the-netherlands/" target="_blank"><h1> food lovers</h1></a>
+    <p> Meld je hier aan voor de nieuwsbrief </p>
+
+
+    </body>
+</html>
