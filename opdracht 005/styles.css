@@ -1,0 +1,13 @@
+body { 
+    color: red;
+}
+.black-border {
+    border: 5px solid black;
+}
+#green-background {
+    background-color: green;
+}
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+    
