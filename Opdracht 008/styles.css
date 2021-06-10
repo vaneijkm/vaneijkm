@@ -1,0 +1,41 @@
+
+
+.soft-border{
+	border: 5px solid lightsteelblue  ;
+}
+
+	.center-title {
+		color: red; 
+		margin: 0 auto;
+		width: 300px ; 
+	}
+
+	.navigation-links{
+		padding: 0;
+	}
+	
+.navigation-links li {
+	display: inline;
+	margin: 20 px;
+}
+	 
+h1 {                                                                                 
+	font-size: 50px;                                                                 
+}          
+
+@media (min-width: 320px) {}
+
+@media (max-width: 1024px) {}
+
+@media (min-width: 1024px) {
+	body {
+		background-color:rgb(223, 245, 233) ;
+		color: rgb(83, 25, 25);
+		font-size: 16px;
+		line-height: 60px;
+	
+	 }
+
+	 .center-title {
+		 width: 600px;
+	 }
