@@ -1,0 +1,19 @@
+body { 
+    color: red;
+	
+	  
+}
+.soft-border{
+	border: 5px solidcolor lightsteelblue  ;
+	
+	
+}
+
+.center-title {
+margin: 0 auto
+
+}
+.navigation-links li {
+	display: inline;
+	margin: 20 px;
+}
