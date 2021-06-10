@@ -1,0 +1,31 @@
+body { 
+    color: red;
+	
+	  
+}
+.soft-border{
+	border: 5px solidcolor lightsteelblue  ;
+	
+	
+}
+
+.center-title {
+margin: 0 auto
+
+}
+.navigation-links li {
+	display: inline;
+	margin: 20 px;
+}
+@media (min-width: 1024px) {}
+
+@media screen and {max-width: 320px;
+	
+} body
+ {background: yellowgreen;
+}
+h1 {                                                                                 
+	font-size: 50px;                                                                 
+}          
+
+
