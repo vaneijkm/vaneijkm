@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+  <p>Click the button to demonstrate the prompt box.</p>
+
+  <button onclick="myFunction()">Try it</button>
+
+  <p id="demo"></p>
+
+  <script>
+    function myFunction() {
+      var person = prompt("welkom wat is je naam", "naam");
+      if (person != null) {
+        document.getElementById("demo").innerHTML =
+          "Hey " + person + "leuk je te ontmoeten";
+      }
+    }
+
+    function myFunction() {
+      var number = promt("toets een getal tussen de 0 en 25");
+      documnet.getelemtById("demo").innerHTML =
+        "Je getal is" + number
+    }
+  </script>
+</body>
+
+</html>
